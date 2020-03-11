@@ -1,0 +1,20 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="Intl Plan NO  <= 0.5\nentropy = 0.733\nsamples = 2386\nvalue = [1896, 490]\nclass = Churn False"] ;
+1 [label="Intl Calls <= 2.5\nentropy = 0.998\nsamples = 259\nvalue = [122, 137]\nclass = Churn True"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+3 [label="entropy = 0.0\nsamples = 57\nvalue = [0, 57]\nclass = Churn True"] ;
+1 -> 3 ;
+4 [label="Intl Calls <= 17.5\nentropy = 0.969\nsamples = 202\nvalue = [122, 80]\nclass = Churn False"] ;
+1 -> 4 ;
+7 [label="entropy = 0.965\nsamples = 200\nvalue = [122, 78]\nclass = Churn False"] ;
+4 -> 7 ;
+8 [label="entropy = 0.0\nsamples = 2\nvalue = [0, 2]\nclass = Churn True"] ;
+4 -> 8 ;
+2 [label="Intl Calls <= 0.5\nentropy = 0.648\nsamples = 2127\nvalue = [1774, 353]\nclass = Churn False"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+5 [label="entropy = 0.0\nsamples = 15\nvalue = [15, 0]\nclass = Churn False"] ;
+2 -> 5 ;
+6 [label="entropy = 0.651\nsamples = 2112\nvalue = [1759, 353]\nclass = Churn False"] ;
+2 -> 6 ;
+}

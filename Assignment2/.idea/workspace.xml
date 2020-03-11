@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39fd0249-2c23-47c4-b1c9-b3eb9630560c" name="Default Changelist" comment="" />
+    <list default="true" id="39fd0249-2c23-47c4-b1c9-b3eb9630560c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Assignment2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Assignment2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Assignment_2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Assignment_2-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart01.dot" beforeDir="false" afterPath="$PROJECT_DIR$/cart01.dot" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="5ab84b1a-96c1-4daf-a9a5-2fc0dfcd6b49" />
+  <component name="JupyterTrust" id="81d370c7-6b3a-4a11-a84e-c8f0e0cbcdd5" />
   <component name="ProjectId" id="1YdQkADZvbRQRahgWtN7FF6tPuk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,10 +29,11 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -39,20 +49,30 @@
       <workItem from="1583894096762" duration="136000" />
       <workItem from="1583894272536" duration="167000" />
       <workItem from="1583899050191" duration="31000" />
+      <workItem from="1583908182996" duration="198000" />
+      <workItem from="1583909856917" duration="625000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="313" y="40" key="CommitChangelistDialog2" timestamp="1583909975473">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="313" y="40" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1583909975473" />
     <state x="740" y="265" key="FileChooserDialogImpl" timestamp="1583894194259">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="265" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583894194259" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1583894425395">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="403" y="165" key="SettingsEditor" timestamp="1583908292455">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="403" y="165" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1583908292455" />
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583894425395" />
     <state x="636" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1583899050705">
       <screen x="0" y="0" width="1920" height="1040" />
