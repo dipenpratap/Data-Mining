@@ -7,8 +7,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="JupyterTrust" id="81d370c7-6b3a-4a11-a84e-c8f0e0cbcdd5" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="5ab84b1a-96c1-4daf-a9a5-2fc0dfcd6b49" />
   <component name="ProjectId" id="1YdQkADZvbRQRahgWtN7FF6tPuk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -19,6 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -31,10 +36,27 @@
       <option name="presentableId" value="Default" />
       <updated>1583270132562</updated>
       <workItem from="1583270137020" duration="122000" />
+      <workItem from="1583894096762" duration="136000" />
+      <workItem from="1583894272536" duration="167000" />
+      <workItem from="1583899050191" duration="31000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="265" key="FileChooserDialogImpl" timestamp="1583894194259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="265" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583894194259" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1583894425395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583894425395" />
+    <state x="636" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1583899050705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583899050705" />
   </component>
 </project>

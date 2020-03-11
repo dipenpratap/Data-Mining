@@ -1,0 +1,20 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="Day Charges <= 44.96\ngini = 0.326\nsamples = 2386\nvalue = [1896, 490]\nclass = Churn False"] ;
+1 [label="Intl Plan YES <= 0.5\ngini = 0.273\nsamples = 2199\nvalue = [1840, 359]\nclass = Churn False"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+3 [label="Day Charges <= 38.395\ngini = 0.214\nsamples = 1966\nvalue = [1727, 239]\nclass = Churn False"] ;
+1 -> 3 ;
+5 [label="gini = 0.184\nsamples = 1686\nvalue = [1513, 173]\nclass = Churn False"] ;
+3 -> 5 ;
+6 [label="Day Charges <= 38.615\ngini = 0.36\nsamples = 280\nvalue = [214, 66]\nclass = Churn False"] ;
+3 -> 6 ;
+7 [label="gini = 0.457\nsamples = 17\nvalue = [6, 11]\nclass = Churn True"] ;
+6 -> 7 ;
+8 [label="gini = 0.331\nsamples = 263\nvalue = [208, 55]\nclass = Churn False"] ;
+6 -> 8 ;
+4 [label="gini = 0.5\nsamples = 233\nvalue = [113, 120]\nclass = Churn True"] ;
+1 -> 4 ;
+2 [label="gini = 0.42\nsamples = 187\nvalue = [56, 131]\nclass = Churn True"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
