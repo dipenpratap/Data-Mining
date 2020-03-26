@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39fd0249-2c23-47c4-b1c9-b3eb9630560c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Assignment2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Assignment2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Assignment_2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Assignment_2-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment_2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cart01.dot" beforeDir="false" afterPath="$PROJECT_DIR$/cart01.dot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +45,8 @@
       <workItem from="1583894272536" duration="167000" />
       <workItem from="1583899050191" duration="31000" />
       <workItem from="1583908182996" duration="198000" />
-      <workItem from="1583909856917" duration="625000" />
+      <workItem from="1583909856917" duration="1061000" />
+      <workItem from="1585199965294" duration="1000" />
     </task>
     <servers />
   </component>
